@@ -1,4 +1,4 @@
-# gat5-credis-extraction
+# gta5-credits-extraction
 Extract credits from https://www.rockstargames.com/gta-v/thankyou
 
 Extracts GTA5 credits, at least the top "new" part on above link.
